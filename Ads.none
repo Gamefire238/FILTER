@@ -22,4 +22,8 @@ mangatoon.mobi##.download-info
 mangatoon.mobi##.index-download-bg
 
 /google-tracking/*
+
 otakudesu.moe##.box_item_ads_popup
+*##[id*="ScriptRoot"]
+naniplay.com##+js(window.open-defuser)
+
