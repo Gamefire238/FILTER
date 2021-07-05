@@ -4,12 +4,7 @@
 ||disqus.com^
 ||1.bp.blogspot.com^
 ||gomunimepartner.onicdn.xyz/gif/723x90.gif^
-||^
-||^
-||^
-||^
-||^
-||^
+||komikcast.com/wp-content/uploads/2021/02/banner-kc.gif^$image
 ||^
 
 ### °< telolet [°_°] telolet >° ###
@@ -26,4 +21,8 @@ mangatoon.mobi##.index-download-bg
 otakudesu.moe##.box_item_ads_popup
 *##[id*="ScriptRoot"]
 naniplay.com##+js(window.open-defuser)
+komikcast.com##.lmt > .Komikcast.Aplikasi
+komikcast.com##+js(addEventListener-defuser, load, onload)
+komikcast.com##+js(abort-on-property-read, document.onclick)
+komikcast.com##+js(abort-current-inline-script, $, open)
 
