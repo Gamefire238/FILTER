@@ -11,3 +11,10 @@
 ||^
 ||^
 ||^
+
+! 2021-07-05 https://mangatoon.mobi
+||mangatoon.mobi/images/icon/mangatoon.png^$image
+mangatoon.mobi##.download-info
+||mangatoon.mobi/images/icon/mangatoon.png$image
+||mangatoon.mobi/images/icon/*.png$image
+mangatoon.mobi##.index-download-bg
