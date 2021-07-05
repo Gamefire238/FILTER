@@ -21,3 +21,5 @@ mangatoon.mobi##.download-info
 ||mangatoon.mobi/images/icon/*.png$image
 mangatoon.mobi##.index-download-bg
 
+/google-tracking/*
+otakudesu.moe##.box_item_ads_popup
