@@ -34,6 +34,7 @@ komikcast.com##+js(abort-current-inline-script, $, open)
 ||i1.wp.com/cdn.mangaku.my.id/gambar^
 ||i0.wp.com/cdn.mangaku.my.id/gambar^
 mangaku.cc##.owl-drag.owl-loaded.owl-carousel.itemsScaleUp-true
+mangaku.cc##.fndsosmed-social
 
 ! 2021-07-06 https://komikcast.com
 komikcast.com##iframe:nth-of-type(1)
