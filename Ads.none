@@ -35,6 +35,10 @@ komikcast.com##+js(abort-current-inline-script, $, open)
 ||.gif$image,domain=mangaku.*
 ||i0.wp.com/cdn.mangaku.my.id/gambar/.gif$image
 ||i1.wp.com/cdn.mangaku.my.id/gambar/.gif$image
+mangaku.*##+js(abort-current-inline-script, $, contextmenu)
+mangaku.*##+js(addEventListener-defuser, contextmenu)
+mangaku.*##+js(nowebrtc)
+mangaku.*##+js(abort-current-inline-script, $, onclick)
 
 ! 2021-07-06 https://komikcast.com
 komikcast.com##iframe:nth-of-type(1)
