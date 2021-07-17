@@ -32,6 +32,7 @@ komikcast.com##+js(abort-current-inline-script, $, open)
 ||3.bp.blogspot.com/-HEN2VM7bGjg/W97ZSB0fNeI/AAAAAAAAA8k/ABqV9pUup_4hOGInZXo3qdSlJXWNVq8WwCLcBGAs/s1600/close-b.png$image
 ||cdn.mangaku.my.id/gambar/2021/05/6c402bc58c60330f18818fe1-22d67291e761f3af138bd320b3058c04.gif$image
 ||i0.wp.com/cdn.mangaku.my.id/gambar/$image
+.gif$image,domain=mangaku.*
 
 ! 2021-07-06 https://komikcast.com
 komikcast.com##iframe:nth-of-type(1)
