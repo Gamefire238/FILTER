@@ -1,3 +1,5 @@
+### ~~~ +_< ADS.NONE.FILTER >_+ ~~~ ###
+
 ||nubmushpub.com^
 ||biddyfungussaps.com^
 ||luxury138.link^
@@ -6,8 +8,8 @@
 ||komikcast.com/wp-content/uploads/2021/02/banner-kc.gif^$image
 ||whistedsynapte.com^$script,domain=komikcast.com
 ||2.bp.blogspot.com/-yA8o9Suywmw/W718V093E8I/AAAAAAAAHcc/iLfzbq1FbJEKxjrX9PcqwX6C1tWFsWXHwCK4BGAYYCw/s400/Tikusliar.com.png^
-||cdn.trakteer.id/js/embed/trbtn.min.js^
 ||vorrireer.com^
+
 ### °< telolet [°_°] telolet >° ###
 
 ! 2021-07-05 https://mangatoon.mobi
@@ -18,24 +20,16 @@ mangatoon.mobi##.download-info
 mangatoon.mobi##.index-download-bg
 ||handlingfaster.com^
 
-/google-tracking/*
-otakudesu.moe##.box_item_ads_popup
-*##[id*="ScriptRoot"]
-naniplay.com##+js(window.open-defuser)
-komikcast.com##.lmt > .Komikcast.Aplikasi
-komikcast.com##+js(addEventListener-defuser, load, onload)
-komikcast.com##+js(abort-on-property-read, document.onclick)
-komikcast.com##+js(abort-current-inline-script, $, open)
-
 ! 2021-07-05 https://otakudesu.moe
-||1.bp.blogspot.com/-*I/AAAAAAAAJi*LcBGAsYHQ/s750/*Anime%2BSub%2BIndo.gif$image
+||bp.blogspot.com/-*.gif$image
+otakudesu.moe##.box_item_ads_popup
+naniplay.com##+js(window.open-defuser)
+*##[id*="ScriptRoot"]
 
 ! 2021-07-06 https://mangaku.pro
-
-||3.bp.blogspot.com/-HEN2VM7bGjg/W97ZSB0fNeI/AAAAAAAAA8k/ABqV9pUup_4hOGInZXo3qdSlJXWNVq8WwCLcBGAs/s1600/close-b.png$image
-||cdn.mangaku.my.id/gambar/2021/05/6c402bc58c60330f18818fe1-22d67291e761f3af138bd320b3058c04.gif^$image
-||i1.wp.com/cdn.mangaku.my.id/gambar^
-||i0.wp.com/cdn.mangaku.my.id/gambar^
+||wp.com/cdn.mangaku.my.id/*.gif
+||3.bp.blogspot.com/*close-b.png
+||cdn.mangaku.my.id/gambar/*gif
 mangaku.cc##.owl-drag.owl-loaded.owl-carousel.itemsScaleUp-true
 mangaku.cc##.fndsosmed-social
 
@@ -45,5 +39,7 @@ manganime.in##.ttpth-btn > [href="#"]
 ! 2021-07-06 https://komikcast.com
 komikcast.com##iframe:nth-of-type(1)
 komikcast.com##iframe:nth-of-type(2)
-
-||bp.blogspot.com/*.gif$image
+komikcast.com##.lmt > .Komikcast.Aplikasi
+komikcast.com##+js(addEventListener-defuser, load, onload)
+komikcast.com##+js(abort-on-property-read, document.onclick)
+komikcast.com##+js(abort-current-inline-script, $, open)
