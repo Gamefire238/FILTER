@@ -42,3 +42,6 @@ komikcast.com##.lmt > .Komikcast.Aplikasi
 komikcast.com##+js(addEventListener-defuser, load, onload)
 komikcast.com##+js(abort-on-property-read, document.onclick)
 komikcast.com##+js(abort-current-inline-script, $, open)
+
+! 2021-07-20 https://westmanga.info
+||4youscan.xyz/wp-content/uploads/*compressed.gif
