@@ -1,2 +1,2 @@
 # FILTER
-Milik pribadi
+Private property
