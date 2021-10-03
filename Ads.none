@@ -50,6 +50,7 @@ komikcast.com##.lmt > .Komikcast.Aplikasi
 komikcast.com##+js(addEventListener-defuser, load, onload)
 komikcast.com##+js(abort-on-property-read, document.onclick)
 komikcast.com##+js(abort-current-inline-script, $, open)
+/cdn-cgi/bm/cv/*
 ||lambingsyddir.com^
 
 ! 2021-07-20 https://westmanga.info
