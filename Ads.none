@@ -31,7 +31,7 @@ mangatoon.mobi##.index-download-bg
 otakudesu.*##.box_item_ads_popup
 naniplay.com##+js(window.open-defuser)
 *##[id*="ScriptRoot"]
-*##.close-button
+##.close-button
 
 ! 2021-07-06 https://mangaku.pro
 ||wp.com/cdn.mangaku.my.id/*.gif
