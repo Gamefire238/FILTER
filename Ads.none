@@ -25,10 +25,10 @@ mangatoon.mobi##.download-info
 mangatoon.mobi##.index-download-bg
 ||handlingfaster.com^
 
-! 2021-07-05 https://otakudesu.moe
+! 2021-07-05 https://otakudesu.vip
 ||peppercarduus.com^
 ||bp.blogspot.com/-*.gif$image
-otakudesu.vip##.box_item_ads_popup
+*##.box_item_ads_popup
 naniplay.com##+js(window.open-defuser)
 *##[id*="ScriptRoot"]
 *##.close-button
