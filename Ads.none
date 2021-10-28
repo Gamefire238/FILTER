@@ -45,12 +45,12 @@ manganime.in##.ttpth-btn > [href="#"]
 ! 2021-07-06 https://komikcast.com
 ||komikcast.com/wp-content/uploads/*banner-kc.gif^$image
 ||whistedsynapte.com^$script,domain=komikcast.com
-komikcast.com##iframe:nth-of-type(1)
-komikcast.com##iframe:nth-of-type(2)
-komikcast.com##.lmt > .Komikcast.Aplikasi
-komikcast.com##+js(addEventListener-defuser, load, onload)
-komikcast.com##+js(abort-on-property-read, document.onclick)
-komikcast.com##+js(abort-current-inline-script, $, open)
+*##iframe:nth-of-type(1)
+*##iframe:nth-of-type(2)
+*##.lmt > .Komikcast.Aplikasi
+*##+js(addEventListener-defuser, load, onload)
+*##+js(abort-on-property-read, document.onclick)
+*##+js(abort-current-inline-script, $, open)
 /cdn-cgi/bm/cv/*
 
 ! 2021-07-20 https://westmanga.info
