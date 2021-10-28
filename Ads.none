@@ -28,10 +28,10 @@ mangatoon.mobi##.index-download-bg
 ! 2021-07-05 https://otakudesu.moe
 ||peppercarduus.com^
 ||bp.blogspot.com/-*.gif$image
-otakudesu.*##.box_item_ads_popup
+otakudesu.vip##.box_item_ads_popup
 naniplay.com##+js(window.open-defuser)
 *##[id*="ScriptRoot"]
-##.close-button
+*##.close-button
 
 ! 2021-07-06 https://mangaku.pro
 ||wp.com/cdn.mangaku.my.id/*.gif
