@@ -53,6 +53,13 @@ manganime.in##.ttpth-btn > [href="#"]
 *##+js(abort-current-inline-script, $, open)
 /cdn-cgi/bm/cv/*
 
+komikcast.com##[src="https://anime.berangkasilmu.com/?ads=komikcast"]
+komikcast.com##+js(aeld, load, onload)
+komikcast.com##+js(aopr, document.onclick)
+komikcast.com##+js(acis, $, open)
+@@||komikcast.com^$ghide
+||blogspot.com/*.gif$image,domain=komikcast.com
+
 ! 2021-07-20 https://westmanga.info
 ||4youscan.xyz/wp-content/uploads/*compressed.gif
 
