@@ -29,8 +29,8 @@ mangatoon.mobi##.index-download-bg
 ! 2021-07-05 https://otakudesu.vip
 ||peppercarduus.com^
 ||bp.blogspot.com/-*.gif$image
-*##.box_item_ads_popup
-naniplay.com##+js(window.open-defuser)
+otakudesu.*##.box_item_ads_popup
+*##+js(window.open-defuser)
 *##[id*="ScriptRoot"]
 otakudesu.*##.close-button
 
