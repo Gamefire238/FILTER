@@ -5,3 +5,4 @@
 0.0.0.0 spanuletubings.com
 0.0.0.0 nakirfettle.com
 0.0.0.0 viglink.com
+0.0.0.0 revincenizam.com
