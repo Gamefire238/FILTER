@@ -1,8 +1,8 @@
-0.0.0.0 amountdonutproxy.com
-0.0.0.0 brazenwholly.com
-0.0.0.0 c.lazada.co.id
-0.0.0.0 shopee.co.id
-0.0.0.0 spanuletubings.com
-0.0.0.0 nakirfettle.com
-0.0.0.0 viglink.com
+:: amountdonutproxy.com
+:: brazenwholly.com
+:: c.lazada.co.id
+:: shopee.co.id
+:: spanuletubings.com
+:: nakirfettle.com
+:: viglink.com
 :: revincenizam.com
