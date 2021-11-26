@@ -73,6 +73,11 @@ www.kompasiana.com##.mb10.mt10.banner-center.banner-flying-big.banner-flying.ban
 www.kompasiana.com##.banner-center.banner-horizontal
 www.kompasiana.com##.mt10.banner-center.banner-bottom.banner
 
+##.bapps-middle
+###tombolclosehorad
+###Kompas-news
+##.ol_container
+
 ! 2021-07-29 https://www.mostraveller.com
 *##[id^="div-gpt-ad"]
 *##[id^="ads_vertical_reader"]
