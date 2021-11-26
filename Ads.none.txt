@@ -77,6 +77,8 @@ www.kompasiana.com##.mt10.banner-center.banner-bottom.banner
 ###tombolclosehorad
 ###Kompas-news
 ##.ol_container
+##.osmplaceonsite.ads-partner-wrap
+##.ads-on-body
 
 ! 2021-07-29 https://www.mostraveller.com
 *##[id^="div-gpt-ad"]
