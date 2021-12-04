@@ -3,7 +3,10 @@ otakudesu.*##.box_item_ads_popup
 otakudesu.*##.close-button
 ||pleatcisele.cam^
 ||bp.blogspot.com/-*.gif$image
-||128.199.142.177^
+||anime.berangkasilmu.com^
+##.osmplaceonsite.ads-partner-wrap
+||anime.berangkasilmu.com^
+||anime.berangkasilmu.com^
 
 ! 2021-07-06 https://mangaku.pro
 ||wp.com/cdn.mangaku.*/*.gif
