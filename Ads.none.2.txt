@@ -3,7 +3,7 @@ otakudesu.*##.box_item_ads_popup
 otakudesu.*##.close-button
 ||pleatcisele.cam^
 ||bp.blogspot.com/-*.gif$image
-||128.199.142.177/?ref=otakudesu^
+||128.199.142.177^
 
 ! 2021-07-06 https://mangaku.pro
 ||wp.com/cdn.mangaku.*/*.gif
