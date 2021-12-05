@@ -12,3 +12,8 @@ otakudesu.*##.close-button
 ||3.bp.blogspot.com/*close-b.png
 ||cdn.mangaku.*/gambar/*gif
 mangaku.*##.fndsosmed-social
+
+||viglink.com^
+||couptoug.net^
+||exosrv.com^
+||exdynsrv.com^
