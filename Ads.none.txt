@@ -1,5 +1,8 @@
 ! ### ~~~ +_< ADS.NONE.FILTER >_+ ~~~ ### !
-
+||viglink.com^
+||couptoug.net^
+||exosrv.com^
+||exdynsrv.com^
 ||tensagesic.com^
 ||katatalkenna.com^
 ||nubmushpub.com^
@@ -29,10 +32,10 @@ mangatoon.mobi##.index-download-bg
 ! 2021-07-05 https://otakudesu.vip
 ||peppercarduus.com^
 ||bp.blogspot.com/-*.gif$image
-otakudesu.*##.box_item_ads_popup
+##.box_item_ads_popup
 naniplay.*##+js(window.open-defuser)
-*##[id*="ScriptRoot"]
-otakudesu.*##.close-button
+##[id*="ScriptRoot"]
+
 
 ! 2021-07-06 https://mangaku.pro
 ||wp.com/cdn.mangaku.my.id/*.gif
@@ -46,12 +49,12 @@ manganime.in##.ttpth-btn > [href="#"]
 ! 2021-07-06 https://komikcast.com
 ||komikcast.com/wp-content/uploads/*banner-kc.gif^$image
 ||whistedsynapte.com^$script,domain=komikcast.com
-*##iframe:nth-of-type(1)
-*##iframe:nth-of-type(2)
-*##.lmt > .Komikcast.Aplikasi
-*##+js(addEventListener-defuser, load, onload)
-*##+js(abort-on-property-read, document.onclick)
-*##+js(abort-current-inline-script, $, open)
+##iframe:nth-of-type(1)
+##iframe:nth-of-type(2)
+##.lmt > .Komikcast.Aplikasi
+##+js(addEventListener-defuser, load, onload)
+##+js(abort-on-property-read, document.onclick)
+##+js(abort-current-inline-script, $, open)
 /cdn-cgi/bm/cv/*
 
 komikcast.com##[src="https://anime.berangkasilmu.com/?ads=komikcast"]
@@ -81,13 +84,14 @@ www.kompasiana.com##.mt10.banner-center.banner-bottom.banner
 ##.ads-on-body
 
 ! 2021-07-29 https://www.mostraveller.com
-*##[id^="div-gpt-ad"]
-*##[id^="ads_vertical_reader"]
+##[id^="div-gpt-ad"]
+##[id^="ads_vertical_reader"]
 
 animasu.tv##.mobads
 ##.mobads
 
 ||kiryuu.id/wp-content/uploads/*.gif
 
+##.osmplaceonsite.ads-partner-wrap
 
 itch.io##.youtube_mobile_banner_widget
