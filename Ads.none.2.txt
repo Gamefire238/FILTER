@@ -1,4 +1,8 @@
 ! 2021-07-05 https://otakudesu.vip
+*##div.iklan:nth-of-type(6)
+*##div.iklan:nth-of-type(7)
+*##div.iklan:nth-of-type(5)
+*##.iklanpost
 *##.box_item_ads_popup
 ||pleatcisele.cam^
 ||bp.blogspot.com/-*.gif$image
@@ -9,3 +13,10 @@
 ||3.bp.blogspot.com/*close-b.png
 ||cdn.mangaku.*/gambar/*gif
 mangaku.*##.fndsosmed-social
+
+! 2021-12-06 https://www.google.com
+*##.v6U7rf
+
+! 2021-12-06 https://m.youtube.com
+*##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
+*##.mobile-topbar-header-sign-in-button
