@@ -1,6 +1,5 @@
 ! 2021-07-05 https://otakudesu.vip
-otakudesu.*##.box_item_ads_popup
-otakudesu.*##.close-button
+*##.box_item_ads_popup
 ||pleatcisele.cam^
 ||bp.blogspot.com/-*.gif$image
 ||anime.berangkasilmu.com^
