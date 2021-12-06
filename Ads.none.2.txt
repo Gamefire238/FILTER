@@ -18,5 +18,5 @@ mangaku.*##.fndsosmed-social
 google.com##.v6U7rf
 
 ! 2021-12-06 https://m.youtube.com
-*##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
-*##.mobile-topbar-header-sign-in-button
+youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button.icon-button
+youtube.com##.mobile-topbar-header-sign-in-button
