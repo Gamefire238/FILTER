@@ -22,7 +22,6 @@ youtube.com##ytm-topbar-menu-button-renderer > .topbar-menu-button-avatar-button
 youtube.com##.mobile-topbar-header-sign-in-button
 
 ! 2021-12-06 https://news.detik.com
-
 detik.com##.ads-slot--smb.ads-slot
 detik.com##.itp_bodycontent.detail__body > .text-center.box-ads
 detik.com##.container > .text-center.box-ads
