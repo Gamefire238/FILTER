@@ -1,9 +1,9 @@
 ! 2021-07-05 https://otakudesu.vip
-*##.box_item_ads_popup
+##.box_item_ads_popup
 ||pleatcisele.cam^
 ||bp.blogspot.com/-*.gif$image
 ||anime.berangkasilmu.com^
-*##.osmplaceonsite.ads-partner-wrap
+##.osmplaceonsite.ads-partner-wrap
 ||ogygiapros.com^
 
 ! 2021-07-06 https://mangaku.pro
