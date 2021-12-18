@@ -29,4 +29,4 @@ news.detik.com##.container > .text-center.box-ads
 ! 2021-12-06 https://www.detik.com
 detik.com##div.box-ads--container.box-ads:nth-of-type(4)
 
-||cutt.ly/Playbook88^
+||cutt.ly^
