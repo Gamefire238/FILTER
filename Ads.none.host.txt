@@ -5,3 +5,4 @@
 ||smoochsodso.com^
 ||gqhamipmmwf.com^
 ||daipeept.net^
+||bp.blogspot.com/*.gif$image,domain=otakudesu.pro
