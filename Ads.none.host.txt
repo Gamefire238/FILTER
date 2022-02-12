@@ -5,6 +5,6 @@
 ||smoochsodso.com^
 ||gqhamipmmwf.com^
 ||daipeept.net^
-||bp.blogspot.com/*.gif$image,domain=otakudesu.pro
+||bp.blogspot.com/*.gif$image,domain=otakudesu.pro|149.56.24.226
 bacakomik.co,komik18.com,komikcast.com,komikindo.id,mangakita.net,mangaku.live,manhwaindo.id,manhwaland.icu,masterkomik.com,ngomik.net,westmanga.info##+js(window.open-defuser)
 manhwaid.org##+js(aopr, disableSelection)
