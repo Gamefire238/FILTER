@@ -10,7 +10,6 @@
 ||wp.com/cdn.mangaku.*/*.gif
 ||3.bp.blogspot.com/*close-b.png
 ||cdn.mangaku.*/gambar/*gif
-mangaku.*##.fndsosmed-social
 ! 2022-02-23 https://www.kompas.com
 www.kompas.com##.premium_div
 www.kompas.com##.ads-latest-wrap
