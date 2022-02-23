@@ -11,6 +11,13 @@
 ||3.bp.blogspot.com/*close-b.png
 ||cdn.mangaku.*/gambar/*gif
 mangaku.*##.fndsosmed-social
+! 2022-02-23 https://www.kompas.com
+www.kompas.com##.premium_div
+www.kompas.com##.ads-latest-wrap
+www.kompas.com##.kcm-track
+www.kompas.com##.banner-300
+www.kompas.com##div.video-inject:nth-of-type(7)
+www.kompas.com##div.video-inject:nth-of-type(8)
 
 ##+js(aeld, load, onload)
 ##+js(aopr, document.onclick)
