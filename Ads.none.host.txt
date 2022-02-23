@@ -12,7 +12,6 @@
 ||cdn.mangaku.*/gambar/*gif
 mangaku.*##.fndsosmed-social
 
-komikcast.*##+js(aeld, load, onload)
-komikcast.*##+js(aopr, document.onclick)
-komikcast.*##+js(acis, $, open)
-||komikcast.com/download-aplikasi-komikcast/^$popup
+##+js(aeld, load, onload)
+##+js(aopr, document.onclick)
+##+js(acis, $, open)
