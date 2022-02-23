@@ -12,8 +12,6 @@
 ||cdn.mangaku.*/gambar/*gif
 mangaku.*##.fndsosmed-social
 
-komikcast.com##+js(aeld,load,onload)
-komikcast.com##+js(aopr,document.onclick)
-komikcast.com##+js(acis,$,open)
-@@||komikcast.com^$ghide
-||blogspot.com/*.gif$image,domain=komikcast.com
+komikcast.*##+js(aeld, load, onload)
+komikcast.*##+js(aopr, document.onclick)
+komikcast.*##+js(acis, $, open)
