@@ -23,3 +23,6 @@ myanimelist.net##.modal-content-overlay
 myanimelist.net##.btn-mal-service-outer
 myanimelist.net##.ad-block-for-billboard
 myanimelist.net##.anchor_image
+! 2022-02-26 https://www.cnnindonesia.com
+www.cnnindonesia.com##footer
+www.cnnindonesia.com##.smartbanner_new
