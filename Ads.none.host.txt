@@ -35,4 +35,4 @@ komikcast.com##body > .kln
 62.171.145.31###floating_banner_top1 > table > tbody
 62.171.145.31###floating_banner_top1 > div
 62.171.145.31##.idmuvi-floatbanner-footer.idmuvi-floatbanner > .container
-
+62.171.145.31##.custom-html-widget.textwidget
