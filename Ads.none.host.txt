@@ -27,3 +27,5 @@ myanimelist.net##.anchor_image
 ! 2022-02-26 https://www.cnnindonesia.com
 www.cnnindonesia.com##footer
 www.cnnindonesia.com##.smartbanner_new
+! 2022-02-26 https://komikcast.com
+komikcast.com##[href="https://genshindata.com/"]
