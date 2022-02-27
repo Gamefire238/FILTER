@@ -30,3 +30,8 @@ www.cnnindonesia.com##.smartbanner_new
 ! 2022-02-26 https://komikcast.com
 komikcast.com##[href="https://genshindata.com/"]
 komikcast.com##body > .kln
+! 2022-02-27 http://62.171.145.31
+62.171.145.31##.idmuvi-topbanner
+62.171.145.31###floating_banner_top1
+62.171.145.31##.idmuvi-floatbanner-footer.idmuvi-floatbanner > .container
+
