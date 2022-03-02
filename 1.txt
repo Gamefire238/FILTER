@@ -6,7 +6,3 @@
 ||smoochsodso.com^
 ||gqhamipmmwf.com^
 ||daipeept.net^
-||bp.blogspot.com/*.gif^
-||wp.com/cdn.mangaku.*/*.gif^
-||3.bp.blogspot.com/*close-b.png^
-||cdn.mangaku.*/gambar/*gif^
